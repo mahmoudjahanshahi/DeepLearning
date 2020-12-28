@@ -1,6 +1,6 @@
 # Deep Learning
 
-This is my personal repository tp practice Deep Learning.
+This is my personal repository to practice Deep Learning. Inspired by [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (offered by deeplearning.ai)
 
 All used datasets are publicly available and their sources have been mentioned in respective directory README files.
 
