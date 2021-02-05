@@ -25,3 +25,7 @@ Any suggestions or corrections to my codes are absolutely appreciated.
 - Gradient checking
 - Adam optimization
 - Mini batch gradient descent
+
+#### convNetModel
+
+- Building a Convolutional Neural Network from Scratch
