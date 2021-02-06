@@ -28,4 +28,8 @@ Any suggestions or corrections to my codes are absolutely appreciated.
 
 #### convNetModel
 
-- Building a Convolutional Neural Network from Scratch
+- Convolutional Neural Network model
+
+#### convNet
+
+- Convolutional Neural Network with keras
