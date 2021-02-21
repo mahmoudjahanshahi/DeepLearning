@@ -10,26 +10,22 @@ Any suggestions or corrections to my codes are absolutely appreciated.
 
 ### RedWineQuality
 
-#### shallowNN_tanh 
-
-- Tanh, sigmoid
-- NNRank (ordinal regression)
+- shallowNN_tanh
+    - Tanh, sigmoid
+    - NNRank (ordinal regression)
 
 ### IntelImage
 
-#### deepNN_ReLU
-
-- ReLU, softmax
-- Regularization
-- He initialization
-- Gradient checking
-- Adam optimization
-- Mini batch gradient descent
-
-#### convNetModel
-
-- Convolutional Neural Network model
-
-#### convNet
-
-- Convolutional Neural Network with keras
+- deepNN_ReLU
+    - ReLU, softmax
+    - Regularization
+    - He initialization
+    - Gradient checking
+    - Adam optimization
+    - Mini batch gradient descent
+- convNetModel
+    - Convolutional Neural Network model
+- convNet
+    - Convolutional Neural Network with Keras
+- resNet
+    - Deep Convolutional Network with Keras, using Residual Network (ResNet) introduced by [He et al.](https://arxiv.org/pdf/1512.03385.pdf)
